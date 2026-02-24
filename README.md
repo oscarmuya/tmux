@@ -17,3 +17,14 @@ rm -rf ~/.config/tmux/.git
 ```
 tmux
 ```
+
+## Install plugins via TPM
+```
+<C-Space> I
+```
+
+
+## Install pomodoro
+```
+~/.config/tmux/install-pomodoro.sh
+```
